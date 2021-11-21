@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Você pode encontrar mais sobre mim nos meus [posts](https://dev.to/rafaelonline/) e também através do meu [Linkedin](https://www.linkedin.com/in/rafael-s-conceicao/)
+
 <!--
 **rafaelonline/rafaelonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
