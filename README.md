@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá!👋
+
+Eu sou o Rafael e tenho mais de 10 anos de experiência em tecnologia.
+
+Nos últimos tempos venho trabalhando com times de desenvolvimento na criação de automações para os processos de Cloud, reduzindo o TOIL e a carga cognitiva dos times, aumentando a resiliência e segurança, garantindo o foco dos times no desenvolvimento dos produtos e serviços.
 
 Você pode encontrar mais sobre mim nos meus [posts](https://dev.to/rafaelonline/) e também através do meu [Linkedin](https://www.linkedin.com/in/rafael-s-conceicao/)
 
